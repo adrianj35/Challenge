@@ -30,8 +30,10 @@ Este proyecto permite organizar y disfrutar de un divertido juego de "Amigo Secr
 2. Asegúrate de que la carpeta `assets` contiene las imágenes necesarias.
 3. Abre el archivo `index.html` en tu navegador.
 4. Escribe nombres en el campo de entrada y haz clic en "Añadir" para agregarlos.
-5. Realiza el sorteo haciendo clic en "Sortear amigo".
-6. Disfruta la experiencia y sorprende a los participantes con el resultado.
+5. ![image](https://github.com/user-attachments/assets/fcdb8d34-84fe-4e2c-83db-566b83eb3a4f)
+6. Realiza el sorteo haciendo clic en "Sortear amigo".
+7. ![image](https://github.com/user-attachments/assets/8100e9b2-124b-4527-9de8-79b51c7d034b)
+8. Disfruta la experiencia y sorprende a los participantes con el resultado.
 
 ## Mejoras futuras ✨
 - Evitar que se repitan nombres en la lista.
